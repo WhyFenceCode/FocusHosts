@@ -1,0 +1,15 @@
+# Title: WhyFenceCode's FocusMode/hosts
+#
+# This hosts file is a collection of social and other distracting hosts I want to block when I am in focus mode.
+# with a dash of crowd sourcing via Discord
+#
+# Date: 26 December 2024
+# Number of unique domains: 0
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+# ===============================================================
+
+0.0.0.0 discord.com
